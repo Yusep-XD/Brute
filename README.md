@@ -4,7 +4,7 @@
 
 <h1 align="center"> [Installing]</h1>
 
-<h2 align="center">  Brutefb TOOL </h2>
+<h2 align="center">  Brute TOOL </h2>
 
 
 ## <b>installation</b>
