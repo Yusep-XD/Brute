@@ -22,7 +22,7 @@
 - `rm -rf Brute`
 - `git clone https://github.com/Yusep-XD/Brute`
 - `cd Brute`
-- `python run.py`
+- `python kanjut.py`
      
 
  ```This Tools is Free Enjoy ```</br>
